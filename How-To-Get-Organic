@@ -1,4 +1,5 @@
 <--WAY TO AQUIRE ORGANIC-->
+Organics is a Modded Ore Type that is Required for Growing Plants in the Farming Blocks
 
 --Planetary Organic Locations--
   >Any Spot on a Planet with Grass
@@ -10,3 +11,8 @@
   >Use a "Bathroom" or "Toilet" Block
     -Sit on Toilet
     (Your Inventory will gain Organic at a slow Pasted Rate)
+
+--Composter Organic Collection--
+  >Use "Composter Block" to make Organics from Already farmed plants.
+  (Ideal to use if there is Access Plants Only)
+  **Compotser will Auto-Pull from Access Inventory, After being Built. Reccomended to Built the "Composter" Block and Turn it Off, then Build the Conveyor to the Composter
